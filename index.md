@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Vikings Gaming soon to be homepage
 
-You can use the [editor on GitHub](https://github.com/vikingsgaming/vikings.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://i.gyazo.com/904c55784569d4722bb5304856128293.jpg">
+
+</body>
+</html>
+
 
 ### Markdown
 
